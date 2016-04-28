@@ -1,0 +1,8 @@
+Script started on Fri 28 Mar 2014 08:23:04 PM NDT
+softskeleton@softskeleton:~/workspace/CountryComparer/src$ java CountryComparerT est
+Countries are: Uruguay Thailand Belgium
+Largest country by area: Thailand
+softskeleton@softskeleton:~/workspace/CountryComparer/src$ exit
+exit
+
+Script done on Fri 28 Mar 2014 08:23:17 PM NDT
